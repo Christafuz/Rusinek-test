@@ -8,6 +8,7 @@ Daniel Schaeffer | Aaron Baker | Andy Rusinek | Minh Nhut Dang
 
 
 Project Materials:
+
 [Project Scheduling](https://github.com/rusinek/ECE411_RocketAv/tree/master/doc/Project%20Scheduling)
 
 [Design Documentation](https://github.com/rusinek/ECE411_RocketAv/tree/master/doc)
