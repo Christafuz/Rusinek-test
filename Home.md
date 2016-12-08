@@ -20,3 +20,6 @@ Project Materials:
 [User Guides and Reference Materials](https://github.com/rusinek/ECE411_RocketAv/tree/master/ref)
 
 [Sample Launch Data](https://github.com/rusinek/ECE411_RocketAv/tree/master/launch_data)
+
+Presentation Link:
+https://docs.google.com/a/pdx.edu/presentation/d/1vf6_0YkZrKFXBVgwvxILBud8b__gfU9zd8wC2_Y3gMw/edit?usp=sharing
